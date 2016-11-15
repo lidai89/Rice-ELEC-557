@@ -1,0 +1,54 @@
+maxTotalPoints: 60
+messages: []
+mode: all
+parts:
+- maxPoints: 5
+  maxSeconds: 1
+  messages: ['Exception thrown: <type ''exceptions.AttributeError''> -- ''module''
+      object has no attribute ''SIGALRM''']
+  name: 3-1a
+  points: 0
+  seconds: 0
+- maxPoints: 10
+  maxSeconds: 1
+  messages: ['Exception thrown: <type ''exceptions.AttributeError''> -- ''module''
+      object has no attribute ''SIGALRM''']
+  name: 3-1b-0
+  points: 0
+  seconds: 0
+- maxPoints: 5
+  maxSeconds: 1
+  messages: ['Exception thrown: <type ''exceptions.AttributeError''> -- ''module''
+      object has no attribute ''SIGALRM''']
+  name: 3-2b
+  points: 0
+  seconds: 0
+- maxPoints: 10
+  maxSeconds: 1
+  messages: ['Exception thrown: <type ''exceptions.AttributeError''> -- ''module''
+      object has no attribute ''SIGALRM''']
+  name: 3-1b-1
+  points: 0
+  seconds: 0
+- maxPoints: 10
+  maxSeconds: 1
+  messages: ['Exception thrown: <type ''exceptions.AttributeError''> -- ''module''
+      object has no attribute ''SIGALRM''']
+  name: 3-2c-0
+  points: 0
+  seconds: 0
+- maxPoints: 10
+  maxSeconds: 1
+  messages: ['Exception thrown: <type ''exceptions.AttributeError''> -- ''module''
+      object has no attribute ''SIGALRM''']
+  name: 3-2d-0
+  points: 0
+  seconds: 0
+- maxPoints: 10
+  maxSeconds: 1
+  messages: ['Exception thrown: <type ''exceptions.AttributeError''> -- ''module''
+      object has no attribute ''SIGALRM''']
+  name: 3-2e-0
+  points: 0
+  seconds: 0
+totalPoints: 0
